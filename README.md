@@ -8,7 +8,7 @@ dfx identity get-principal
 
 2. Save it somewhere.
 
-e.g. My principal id is: 7g224-plemp-tmzwc-lyzqc-ljrn6-q73fl
+e.g. My principal id is: `<YOUR_PRINCIPAL_ID>`
 
 
 3. Format and store it in a command line variable:
