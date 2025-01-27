@@ -1,3 +1,7 @@
+# Preview
+![image](https://github.com/user-attachments/assets/8b4046ef-d303-4770-9edc-b70cbb563c77)
+
+
 # Check your Balance
 
 1. Find out your principal id:
